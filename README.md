@@ -17,7 +17,7 @@
 [![Discord][1.2]][1] [![Telegram][4.2]][4]
 
 [1.2]: https://skillicons.dev/icons?i=discord&perline=3
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+[4.2]: [https://s4.uupload.ir/files/telegram_q47u.png](https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png)
 
 [1]: https://discord.com/users/741964585300656170
 [4]: https://telegram.me/melisas8
