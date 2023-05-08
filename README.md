@@ -6,7 +6,7 @@
 # My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,wordpress,raspberrypi,bots,vscode,photoshop,premiere,illustrator,audition,xd" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,,photoshop,premiere,illustrator,audition,xd,wordpress,raspberrypi,bots,vscode,arduino,bootstrap,cs,cloudflare,discord" />
   </a>
 </p>
 <p align="center">
