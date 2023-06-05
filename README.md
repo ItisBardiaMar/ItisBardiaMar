@@ -14,7 +14,7 @@
   
 # My social networks to connect with me
 
-[![Discord][1.2]][1] [![Telegram][4.2]][4]
+[![Discord][1.2]][1]
 
 [1.2]: https://skillicons.dev/icons?i=discord&perline=3
 
