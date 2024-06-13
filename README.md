@@ -9,7 +9,7 @@
 # Languages & Frameworks
 <p align="center">
   <a href="/">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,arduino,fastapi,html,css,nextjs,react,tailwind,threejs,nodejs,npm,prisma,postgres,MongoDB,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,arduino,fastapi,html,css,nextjs,react,tailwind,threejs,nodejs,npm,prisma,postgres,mongodb,firebase,supabase" />
   </a>
 </p>
 <p align="center">
