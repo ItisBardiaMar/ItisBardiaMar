@@ -24,19 +24,8 @@
   
 # My social networks to connect with me
 
-Discord
-[![Discord][1.2]][1]
+Discord  
+[![Discord](https://skillicons.dev/icons?i=discord&perline=3)](https://discord.com/users/760653894048546868)
 
-[1.2]: https://skillicons.dev/icons?i=discord&perline=3
-
-
-[1]: https://discord.com/users/760653894048546868
-
-
-Telegram
-[![Telegram][2.2]][2]
-
-[2.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png
-
-
-[2]: https://t.me/BardiaMA
+Telegram  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" height="40">](https://t.me/BardiaMA)
