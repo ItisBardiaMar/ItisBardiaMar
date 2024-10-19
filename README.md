@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  ## Crypto & Forex enthusiast - Full-Stack Developer
-  # Not so active here, website : https://bardiamsa.tech
+  <h3>Crypto & Forex enthusiast - Full-Stack Developer</h3>
+  <h3>Not so active here, website : https://bardiamsa.tech</h3>
 <p align="center">
 
 
