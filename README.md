@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  Crypto & Forex enthusiast - Full-Stack Developer
+  ## Crypto & Forex enthusiast - Full-Stack Developer
+  # Not so active here, website : https://bardiamsa.tech
 <p align="center">
 
 
